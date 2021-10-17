@@ -1,0 +1,14 @@
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.exe
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.deps.json
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.runtimeconfig.json
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.runtimeconfig.dev.json
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.dll
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.pdb
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.AssemblyInfoInputs.cache
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.AssemblyInfo.cs
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.dll
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.pdb
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.genruntimeconfig.cache
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesker\source\repos\EightQueens\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.csproj.AssemblyReference.cache
